@@ -1,4 +1,4 @@
-# Landing Page _
+# Landing Page
 
 This repository contains the source code for a personal website landing page.
 
